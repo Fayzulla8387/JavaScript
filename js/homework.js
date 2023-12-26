@@ -154,5 +154,8 @@
 
 // console.log(parseInt("011", 2));
 
-console.log(5==3 ? true : false)
+// console.log(5==3 ? true : false)
 
+function freeobj(){
+    
+}
