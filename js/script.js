@@ -1,8 +1,5 @@
 "use strict";
 
-// const number=10;
-
-// let Name="fayzulla";
 
 // const array ={
 //     age: 24,
@@ -39,3 +36,4 @@ const follower = prompt("qaysi ", "xojaniiyozov")
 console.log("https://instagram.com/"+follower);
 
 console.log(`https://instagram.com/${follower}`);
+
